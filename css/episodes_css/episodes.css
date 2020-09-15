@@ -7,7 +7,7 @@ body {
 h1 {
   font-size: 50px;
   font-family: "Lucida Console", Courier, monospace;
-  color: hotpink;
+  color: white;
 }
 
 p {
@@ -17,13 +17,35 @@ p {
   word-wrap: break-word;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ 
+.responsive {
+  max-width: 600px;
+  height: auto;
+}
+
+
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ 
+.responsive {
+  max-width: 600px;
+  height: auto;
+}
+
 .Rob_container {
   border: 1px solid #dedede;
   background-color: #34005F;
   padding: 7px;
   margin: -15px 0;
   color: #FFB4FC; 
-
 }
 
 .Rob_container img {
