@@ -25,20 +25,20 @@ img {
   height: auto;
 }
 
-.column1, .column2{
-
-display: inline-block;
-max-width: 50%;
-
+.buttons {
+  max-width: 50%;
+  display: inline-block;
+  float: left;
 }
 
-
-
-
-
-
-
-
+.buttons img {
+  max-width: 100%;
+  display: inline-block;
+  
+  
+  
+  
+  
 /* unvisited link */
 a:link {
   color: hotpink;
