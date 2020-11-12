@@ -25,10 +25,6 @@ img {
   height: auto;
 }
 
-.columns {
- display: block;
-}
-
 .buttons {
   display: inline-block;
   float: left;
