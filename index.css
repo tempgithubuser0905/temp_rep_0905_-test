@@ -28,6 +28,7 @@ img {
 .buttons {
   display: inline-block;
   max-width: 50%;
+  padding: 5px;
 }
 
 
