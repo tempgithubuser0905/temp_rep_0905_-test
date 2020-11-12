@@ -24,7 +24,18 @@ img {
   max-width: 100%;
   height: auto;
 }
- 
+
+.buttons {
+  max-width: 50%;
+  float: left;
+}
+
+.buttons img {
+  float: left;
+  max-width: 100%;
+  display: inline-block;
+  
+  
 /* unvisited link */
 a:link {
   color: hotpink;
