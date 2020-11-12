@@ -17,6 +17,10 @@ p {
   word-wrap: break-word;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 img {
   display: block;
   margin-left: auto;
@@ -25,13 +29,30 @@ img {
   height: auto;
 }
 
-.buttons {
+
+
+.column {
   display: inline-block;
+  float: left;
+  width: 50%;
+  padding: 10px;
 }
 
-.buttons img {
-  max-width: 90%;
-{
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+
+
+
+
 
 /* unvisited link */
 a:link {
