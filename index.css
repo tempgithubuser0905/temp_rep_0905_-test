@@ -27,7 +27,7 @@ img {
 
 .buttons {
   display: inline-block;
-  width: 49.75%;
+  max-width: 49.75%;
   padding: 0.5%;
 }
 
