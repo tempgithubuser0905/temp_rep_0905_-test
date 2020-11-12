@@ -31,6 +31,7 @@ img {
 
 .buttons {
   display: inline-block;
+  float: left;
   max-width: 100%;
 }
 
