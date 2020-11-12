@@ -27,11 +27,8 @@ img {
 
 .buttons {
   display: inline-block;
-  max-width: 100%;
+  max-width: 40%;
 }
-
-.buttons img {
-  max-width: 95%;
 
 
 /* unvisited link */
