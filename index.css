@@ -25,13 +25,30 @@ img {
   height: auto;
 }
 
-.buttons img {
+.columns {
+ display: block;
+}
+
+.buttons {
   display: inline-block;
-  float: left;
-  max-width: 95%;
-  padding: 5px;
-{
-  
+  max-width: 100%;
+}
+
+.strawberry_right {
+  float: right;
+  max-width: 100%;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
   
 /* unvisited link */
 a:link {
