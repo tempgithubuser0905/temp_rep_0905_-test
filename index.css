@@ -28,7 +28,7 @@ img {
 .buttons {
   display: inline-block;
   float: left;
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .strawberry_right {
